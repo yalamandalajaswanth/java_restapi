@@ -14,15 +14,13 @@
         <version>1.4.200</version>
     </dependency>
 </dependencies>
-
     <distributionManagement>
         <repository>
             <id>restapi1</id>
             <name>java_restapi</name>
-            <url>C:\Users\jaswa\Documents\java_restapi</url>
+            <url>C:\Users\jaswa\Downloads\java_restapi</url>
         </repository>
     </distributionManagement>
-
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
